@@ -15,7 +15,7 @@ Throughout this comprehensive course, we covered a massive amount of tools and t
 
  - Beautiful Soup
 
- - Selenium Web Driver
+ - **Selenium** Web Driver
 
  - Request
 
@@ -25,11 +25,11 @@ Throughout this comprehensive course, we covered a massive amount of tools and t
 
  - Pandas
 
- - NumPy
+ - **NumPy**
 
  - Matplotlib
 
- - Plotly
+ - **Plotly**
 
  - Scikit learn
 
@@ -39,7 +39,7 @@ Throughout this comprehensive course, we covered a massive amount of tools and t
 
  - Python GUI Desktop App Development
 
- - Tkinter
+ - **Tkinter**
 
  - Front-End Web Development
 
@@ -51,21 +51,21 @@ Throughout this comprehensive course, we covered a massive amount of tools and t
 
  - Bash Command Line
 
- - Git, GitHub and Version Control
+ - Git, **GitHub** and Version Control
 
  - Backend Web Development
 
- - Flask
+ - **Flask**
 
  - REST
 
- - APIs
+ - **APIs**
 
  - Databases
 
  - SQL
 
- - SQLite
+ - **SQLite**
 
  - PostgreSQL
 
